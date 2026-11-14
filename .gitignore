@@ -1,0 +1,14 @@
+# Local Python environment
+.venv/
+
+# Secrets such as API keys
+.env
+
+# Bytecode Python creates when a script runs
+__pycache__/
+
+# macOS folder metadata
+.DS_Store
+
+# Downloaded market data
+*.csv
